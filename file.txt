@@ -1,0 +1,9 @@
+count
+the
+number
+of
+lines
+In 
+a
+given
+file1
